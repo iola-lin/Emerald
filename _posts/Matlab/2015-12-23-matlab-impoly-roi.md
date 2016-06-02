@@ -4,7 +4,6 @@ title: "用 impoly 圈選 ROI - Matlab"
 category: Matlab Note
 tags: [Matlab]
 ---
-{% include JB/setup %}
 
 ### [Matlab] 用impoly圈ROI
 

@@ -4,7 +4,6 @@ title: "來玩Jekyll! 紀錄(1)"
 category: Jekyll
 tags: [Jekyll, record]
 ---
-{% include JB/setup %}
 
 ## What is Jekyll
 

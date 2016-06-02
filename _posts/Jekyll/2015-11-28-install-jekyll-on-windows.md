@@ -5,7 +5,6 @@ description: ""
 category: Jekyll
 tags: [Jekyll, install]
 ---
-{% include JB/setup %}
 
 ### Jekyll+GitHub
 

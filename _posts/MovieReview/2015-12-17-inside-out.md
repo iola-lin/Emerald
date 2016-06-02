@@ -5,7 +5,6 @@ description: "腦筋急轉彎（中譯）感想"
 category: Movie Review
 tags: [Movie Review]
 ---
-{% include JB/setup %}
 
 ### Inside Out 腦筋急轉彎
 

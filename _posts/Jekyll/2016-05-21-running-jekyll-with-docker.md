@@ -5,7 +5,6 @@ description: ""
 category: Jekyll
 tags: [Jekyll, Docker]
 ---
-{% include JB/setup %}
 
 #### 開頭
 

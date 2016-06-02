@@ -4,7 +4,6 @@ title: "書籍推薦：關鍵18分鐘"
 category: Book Review
 tags: [Book Review]
 ---
-{% include JB/setup %}
 
 推薦[《關鍵18分鐘》][18min]這本書！
 
