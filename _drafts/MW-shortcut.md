@@ -1,3 +1,7 @@
+---
+tags: [atom extension]
+---
+
 #### 處理 Markdown-Writer shortcut not work
 
 [ref from issue #91](https://github.com/zhuochun/md-writer/issues/91)
