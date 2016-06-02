@@ -19,5 +19,3 @@ github_username:  iola-lin
 # Build settings
 highlighter: rouge
 markdown: kramdown
-kramdown:
-	input: GFM
