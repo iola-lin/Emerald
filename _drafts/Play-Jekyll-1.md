@@ -44,6 +44,8 @@ $ jekyll new . --force  # 如果資料夾裡已經有檔案存在
 * .gitignore
 
   寫在此處的檔案類型，會被 `Git` 忽視。不會成為 Git 提示為 untracked 的檔案。
-  * _site: `jekyll build` 之後建立好的靜態網頁會放置在這裡
+  * _site: `jekyll build` 之後建立好的靜態網頁會放置在這裡。
   * .sass-cache
-  * jekyll-metadata
+  * jekyll-metadata: 由[官方文件][Directory structure]得知，這個檔案是用來追蹤哪些檔案在比較上次build的時候有改變，要重新產生。
+
+[Directory structure]: (https://jekyllrb.com/docs/structure/)

@@ -19,7 +19,7 @@ github_username:  iola-lin
 highlighter: rouge
 markdown: kramdown
 
-comments :
+comments : true
   provider : disqus    # default comments
   disqus :
     short_name : emeraldgithub
