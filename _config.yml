@@ -22,6 +22,6 @@ markdown: kramdown
 site_id: iola-lin.github.io
 
 comments : true
-  provider : disqus
+  provider : 
   disqus :
     short_name : emeraldgithub
