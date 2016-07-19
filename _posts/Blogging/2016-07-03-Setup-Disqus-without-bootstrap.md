@@ -45,7 +45,7 @@ tags: [Disqus, Jekyll]
 我把這段 code 存到獨立的 `disqus.html` 檔中，再利用 [liquid](https://github.com/Shopify/liquid/wiki) 去抓這個檔。
 
 複製來的 Universal Code 長這樣：(刪掉了一些comment)
-```
+```html
 <div id="disqus_thread"></div>
 <script>
 
@@ -62,7 +62,7 @@ tags: [Disqus, Jekyll]
 ```
 
 參考別人的教學 (有些我還不確定有什麼影響，有空再測試吧......)，修改過後：
-```
+```html
 <div id="disqus_thread"></div>
 <script type="text/javascript">
 
@@ -85,7 +85,7 @@ var disqus_identifier   = '{{ page.url }}';
 > Configuration Variables 的設定請參考: https://help.disqus.com/customer/en/portal/articles/2158629
 
 開啟我要加入的 layout，我放在 `post.html`
-```
+```html
 ...
 <article ...
 
